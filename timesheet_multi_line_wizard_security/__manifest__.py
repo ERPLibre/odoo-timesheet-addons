@@ -15,5 +15,5 @@
         'timesheet_multi_line_wizard',
     ],
     'installable': True,
-    'auto_install': True,
+    'auto_install': False,
 }
